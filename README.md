@@ -1,5 +1,5 @@
 # Coding-Raja-Technologies-Internship-Task-1
-# Website Builder - Resume Creator
+# Resume Creator
 
 Welcome to the Website Builder Resume Creator! This web application allows users to easily create and customize their resumes with a variety of templates and features. With a user-friendly interface and responsive design, crafting the perfect resume has never been easier.
 
