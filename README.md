@@ -44,7 +44,7 @@ To use the Website Builder Resume Creator, simply visit our website and start cr
 
 ## Support and Feedback
 
-If you encounter any issues, have suggestions, or need assistance, please don't hesitate to contact our support team at [support@resumegenius.com]
-mail to: geekykiran280@gmail.com
+If you encounter any issues, have suggestions, or need assistance, please don't hesitate to contact our support team at support@resumegenius.com
+or mail to: geekykiran280@gmail.com
 
 Thank you for choosing the Website Builder Resume Creator. We hope this tool helps you craft a standout resume that opens doors to exciting opportunities. Happy resume-building!
