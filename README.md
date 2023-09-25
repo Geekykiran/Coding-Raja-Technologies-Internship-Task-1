@@ -1,7 +1,7 @@
 # Coding-Raja-Technologies-Internship-Task-1
 # Resume Creator
 
-Welcome to the Website Builder Resume Creator! This web application allows users to easily create and customize their resumes with a variety of templates and features. With a user-friendly interface and responsive design, crafting the perfect resume has never been easier.
+Welcome to the Website Builder Resume Creator! This web application allows users to easily create and customize their resumes with various templates and features. With a user-friendly interface and responsive design, crafting the perfect resume has never been easier.
 
 ## Features
 
@@ -26,7 +26,7 @@ Welcome to the Website Builder Resume Creator! This web application allows users
 ### Download and Export
 
 - Download your completed resume in different formats, including PDF and Word.
-- Share your resume with potential employers or save it for future use.
+- Could you share your resume with potential employers or save it for future use?
 
 ### Responsive Design
 
@@ -40,11 +40,11 @@ Welcome to the Website Builder Resume Creator! This web application allows users
 
 ## Getting Started
 
-To use the Website Builder Resume Creator, simply visit our website and start creating your resume today. No account is required, but registering allows you to save and access your resumes from any device.
+To use the Website Builder Resume Creator, visit our website and start creating your resume today. No account is required, but registering allows you to save and access your resumes from any device.
 
 ## Support and Feedback
 
 If you encounter any issues, have suggestions, or need assistance, please don't hesitate to contact our support team at support@resumegenius.com
 or mail to: geekykiran280@gmail.com
 
-Thank you for choosing the Website Builder Resume Creator. We hope this tool helps you craft a standout resume that opens doors to exciting opportunities. Happy resume-building!
+Thank you for choosing our Resume Creator website. We hope this tool helps you craft a standout resume that opens doors to exciting opportunities. Happy resume-building!
